@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Face-Recognition-App-Git-Version/static/css/main.68a72266.chunk.css",
+    "main.js": "/Face-Recognition-App-Git-Version/static/js/main.01624295.chunk.js",
+    "main.js.map": "/Face-Recognition-App-Git-Version/static/js/main.01624295.chunk.js.map",
+    "runtime-main.js": "/Face-Recognition-App-Git-Version/static/js/runtime-main.08160c8d.js",
+    "runtime-main.js.map": "/Face-Recognition-App-Git-Version/static/js/runtime-main.08160c8d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Face-Recognition-App-Git-Version/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.9049ac75.chunk.js": "/Face-Recognition-App-Git-Version/static/js/2.9049ac75.chunk.js",
+    "static/js/2.9049ac75.chunk.js.map": "/Face-Recognition-App-Git-Version/static/js/2.9049ac75.chunk.js.map",
+    "index.html": "/Face-Recognition-App-Git-Version/index.html",
+    "precache-manifest.d57285f0403361650d0dba479b2c6056.js": "/Face-Recognition-App-Git-Version/precache-manifest.d57285f0403361650d0dba479b2c6056.js",
+    "service-worker.js": "/Face-Recognition-App-Git-Version/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Face-Recognition-App-Git-Version/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.68a72266.chunk.css.map": "/Face-Recognition-App-Git-Version/static/css/main.68a72266.chunk.css.map",
+    "static/js/2.9049ac75.chunk.js.LICENSE": "/Face-Recognition-App-Git-Version/static/js/2.9049ac75.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08160c8d.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.9049ac75.chunk.js",
+    "static/css/main.68a72266.chunk.css",
+    "static/js/main.01624295.chunk.js"
+  ]
+}
