@@ -1,0 +1,6 @@
+.form{
+    width: 700px;
+}
+.bg{
+    background:linear-gradient(90deg, rgb(0, 149, 248) 0%, rgb(221, 54, 96) 100%);
+}
